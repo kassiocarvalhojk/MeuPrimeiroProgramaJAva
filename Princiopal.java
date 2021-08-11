@@ -14,7 +14,7 @@ public class Princiopal {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Hey there!\nQual o seu nome?");
+		System.out.println("Hey my friend!\nwhat's your name?");
 		
 		Scanner in  = new Scanner(System.in);
 		String nome = in.nextLine();
